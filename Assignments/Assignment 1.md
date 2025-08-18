@@ -15,15 +15,15 @@ Output: N! (N factorial)
 
 ### Psuedocode:
 
-BEGIN Factorial
-    Input N
-    Set fact to 1
-    For i <= N, Do 
-          fact = fact * i
-          i = i + 1
-    End For
-    Output "Factorial is" : Fact
-End Factorial
+    BEGIN Factorial
+        Input N
+        Set fact to 1
+        For i <= N, Do 
+              fact = fact * i
+              i = i + 1
+        End For
+        Output "Factorial is" : Fact
+    End Factorial
 
 ### Flowchart :
 
