@@ -26,7 +26,7 @@ Output: N! (N factorial)
     End Factorial
 
 ### Flowchart :
-![Factorial Image](factorialreal.jpg)
+![Factorial Image](Assignments/factorialreal.jpg)
 
 
 ---
