@@ -18,7 +18,7 @@ Output: N! (N factorial)
     BEGIN Factorial
         Input N
         Set fact to 1
-        For i <= N, Do 
+        For i = 1, if i <= N, Do 
               fact = fact * i
               i = i + 1
         End For
