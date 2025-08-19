@@ -31,8 +31,8 @@ Output: N! (N factorial)
 ---
 
 # Problem 2: Intermediate
-Check if a number is prime
-Input: A positive integer N
+Check if a number is prime   
+Input: A positive integer N   
 Output: "Prime" or "Not Prime"
 
 ### Algorithm:
