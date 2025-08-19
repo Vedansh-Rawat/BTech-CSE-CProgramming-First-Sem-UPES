@@ -13,7 +13,7 @@ Output: N! (N factorial)
 6. Output fact
 7. End
 
-### Psuedocode:
+### Pseudocode:
 
     BEGIN Factorial
         Input N
@@ -28,12 +28,42 @@ Output: N! (N factorial)
 ### Flowchart :
 ![Factorial Image](factorialfinal.png)
 
-
 ---
 
+# Problem 2: Intermediate
+Check if a number is prime
+Input: A positive integer N
+Output: "Prime" or "Not Prime"
 
+### Algorithm:
+1. START.
+2. Input N.
+3. Set i = 2.
+4. If N == 0 or N == 1, return 0.
+5. Repeat for i * i <= N:
+        if n % i == 0, return 0
+        i += 1
+6. If loop finishes, return 1.
+7. If return == 1, num is prime. Else if return == 0, not prime.
+8. END
 
+### Pseudocode: 
+    BEGIN CHECKPRIME
+            Input N
+            Set i to 2
+            If N == 0 or N == 1:
+                    return 0
+            For i * i <= n,
+                If N % i == 0, return 0
+                    i += 1
+            End For
+            return 1
+            Output 
+                If return == 1: "Num is prime"
+                Else: "Num is not prime"
+    End CHECKPRIME
 
-    
+### Flowchart: 
+![Prime Image]()
     
 
