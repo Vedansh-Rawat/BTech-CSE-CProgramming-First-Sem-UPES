@@ -1,8 +1,6 @@
 # Problem 1: Basic
 Calculate the factorial of a number  
-
-Input: A positive integer N  
-
+Input: A positive integer N   
 Output: N! (N factorial)
 
 ### Algorithm:
