@@ -1,5 +1,5 @@
 # Problem 1: Basic
-Calculate the factorial of a number
+Calculate the factorial of a number\n
 Input: A positive integer N
 Output: N! (N factorial)
 
