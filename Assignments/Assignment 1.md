@@ -72,3 +72,28 @@ Output: "Prime" or "Not Prime"
 Sort an array using bubble sort   
 Input: Array of integers   
 Output: Sorted array in ascending order
+
+### Algorithm: 
+1. START
+2. Input an array A of size N.
+3. Repeat for pass = 1, N - 1 times.
+4. For i = 0, if A[i] > A[i+1], Swap A[i] and A[i+1]. Else, continue. Increment i by 1.
+5. After the loop finishes, the array is sorted in ascending order.
+6. Output Array.
+7. END
+
+### Pseudocode:
+    BEGIN BUBBLESORT
+        Input Array
+        Set Size of array = N
+        Set i = 0
+        Set temp = 0
+        For pass = 1, till N - 1, 
+                    If A[i] > A[i+1]:
+                        temp = A[i]
+                        A[i] = A[i+1]
+                        A[i+1] = temp
+                        i += 1
+        End For
+        Print Array
+    END BUBBLESORT
