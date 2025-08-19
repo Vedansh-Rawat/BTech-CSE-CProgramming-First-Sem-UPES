@@ -26,7 +26,7 @@ Output: N! (N factorial)
     End Factorial
 
 ### Flowchart :
-![Factorial Image](../Images/factorialfinal.png)
+![Factorial Image](Images/factorialfinal.png)
 
 ---
 
@@ -99,6 +99,6 @@ Output: Sorted array in ascending order
     END BUBBLESORT
 
 ### Flowchart: 
-![Bubble Sorting](Untitled%20Diagram.drawio.png)
+![Bubble Sorting](Images/Untitled%20Diagram.drawio.png)
 
 ---
