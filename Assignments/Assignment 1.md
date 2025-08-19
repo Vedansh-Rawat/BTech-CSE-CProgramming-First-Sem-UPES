@@ -64,6 +64,8 @@ Output: "Prime" or "Not Prime"
     End CHECKPRIME
 
 ### Flowchart: 
-![Prime Image]()
+![Prime Image](checkprime.png)
+
+---
     
 
