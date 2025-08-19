@@ -26,7 +26,7 @@ Output: N! (N factorial)
     End Factorial
 
 ### Flowchart :
-![Factorial Image](../images/factorialfinal.png)
+![Factorial Image](../Images/factorialfinal.png)
 
 ---
 
@@ -64,7 +64,7 @@ Output: "Prime" or "Not Prime"
     End CHECKPRIME
 
 ### Flowchart: 
-![Prime Image](checkprime.png)
+![Prime Image](Images/checkprime.png)
 
 ---
     
