@@ -68,4 +68,7 @@ Output: "Prime" or "Not Prime"
 
 ---
     
-
+# Problem 3: Advanced
+Sort an array using bubble sort   
+Input: Array of integers   
+Output: Sorted array in ascending order
