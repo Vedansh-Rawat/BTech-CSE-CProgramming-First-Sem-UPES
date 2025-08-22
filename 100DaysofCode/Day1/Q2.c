@@ -12,6 +12,10 @@ int main() {
     sum = num1 + num2;
     difference = num1 - num2;
     product = num1 * num2;
+
+    printf("%d + %d = %.2f\n", num1, num2, sum);
+    printf("%d - %d = %.2f\n", num1, num2, difference);
+    printf("%d * %d = %.2f\n", num1, num2,  product);
     
 if (num2 == 0) {
         printf("Division by zero is not allowed.\n");
@@ -20,9 +24,7 @@ if (num2 == 0) {
         quotient = (float)num1 / num2;
     }
     
-    printf("%d + %d = %.2f\n", num1, num2, sum);
-    printf("%d - %d = %.2f\n", num1, num2, difference);
-    printf("%d * %d = %.2f\n", num1, num2,  product);
+    
     printf("%d / %d = %.2f\n", num1, num2, quotient);
     return 0;
 }
