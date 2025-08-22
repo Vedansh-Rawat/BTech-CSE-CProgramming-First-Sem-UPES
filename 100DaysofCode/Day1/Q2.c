@@ -12,6 +12,7 @@ int main() {
     sum = num1 + num2;
     difference = num1 - num2;
     product = num1 * num2;
+    
 if (num2 == 0) {
         printf("Division by zero is not allowed.\n");
         return 1;
